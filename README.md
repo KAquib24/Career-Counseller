@@ -22,6 +22,15 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Experience the application live:**  
+➡️ **[https://career-counseller-five.vercel.app/](https://career-counseller-five.vercel.app/)**
+
+🚀 *Try the career assessment and get personalized recommendations instantly!*
+
+---
+
 ## ✨ Overview
 
 The **Career Counsellor** is a modern web application that leverages **rule-based algorithms and comprehensive career datasets** to provide personalized career guidance, skill assessments, and career roadmaps. It helps users discover suitable career paths based on their interests, skills, and goals through intelligent data matching.
